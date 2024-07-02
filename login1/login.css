@@ -58,18 +58,18 @@
 
 .form-section a {
   font-weight: bold;
-  color: #0066ff;
+  color: red;
   transition: color .3s ease;
 }
 
 .form-section a:hover {
-  color: #005ce6;
+  color: red;
   text-decoration: underline;
 }
 
 /*Button*/
 .form button {
-  background-color: #0066ff;
+  background-color: red;
   color: #fff;
   border: 0;
   border-radius: 24px;
@@ -81,5 +81,5 @@
 }
 
 .form button:hover {
-  background-color: #005ce6;
+  background-color: black;
 }
